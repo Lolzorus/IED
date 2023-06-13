@@ -1,0 +1,6 @@
+#! /bin/tcsh
+# cx17 : test de régression
+# $1 = minor.bugfix update number
+gcc -Wall cx17.2.c -o cx17.2
+if ($? != 0) exit
+cx17.$1 indexe-moi.texte > cx17.$1.test

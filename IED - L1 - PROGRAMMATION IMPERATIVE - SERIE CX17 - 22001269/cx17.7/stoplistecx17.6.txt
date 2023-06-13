@@ -1,0 +1,12 @@
+mots
+html
+head
+base
+de
+noSQL
+Hakuna
+Matata
+au
+bel
+ce
+ces
